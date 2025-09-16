@@ -36,6 +36,24 @@ criaCartao(
 
 criaCartao(
     'Gerais',
-    'Quem inventou a lâmpada?',
-    'Thomas Edison.'
+    ' A que temperatura a água ferve?',
+    '100 graus.'
+)
+
+criaCartao(
+    'Gerais',
+    'Qual o maior planeta do sistema solar?',
+    'jupiter.'
+)
+
+criaCartao(
+    'Gerais',
+    'Qual o monumento famoso pela sua inclinação?',
+    'Torre de pisa.'
+)
+
+criaCartao(
+    'Gerais',
+    'Quem foi a primeira pessoa a viajar no Espaço?',
+    'Yuri Gagarin.'
 )
