@@ -37,6 +37,7 @@ body {
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
 
+    border: 1px solid var(--cor-da-borda);
 }
 
 .cartao__conteudo h3 {
