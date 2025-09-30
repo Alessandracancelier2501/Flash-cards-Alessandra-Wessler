@@ -2,7 +2,7 @@
     --text-color: #fff2fc;
     --card-front-color: #f6b5fc;
     --card-back-color: #f09bfc;
-    --cor-da-borda:#fa0000;
+    --cor-da-borda:#ef9dff;
     --cor-fundo-cartao:#fad0fc;
 }
 
@@ -36,13 +36,12 @@ body {
     height: 100%;
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
-
-    border: 1px solid var(--cor-da-borda);
+    border: 2px solid var(--cor-da-borda);
 }
 
 .cartao__conteudo h3 {
     color: var(--text-color);
-    border: 1px solid var(--cor-da-borda);
+    border: 1px solid var(--text-color);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
