@@ -2,7 +2,7 @@
     --text-color: #fff2fc;
     --card-front-color: #f6b5fc;
     --card-back-color: #f09bfc;
-    --cor-da-borda:#000000;
+    --cor-da-borda:#f11414;
     --cor-fundo-cartao:#ffffff;
 }
 
@@ -84,7 +84,7 @@ body {
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
     background-color:var(--cor-fundo-cartao);
-    border: 5px solid var(--cor--da--borda);
+    border: 4px solid var(--cor--da--borda);
 }
 
 
