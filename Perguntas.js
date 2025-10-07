@@ -1,5 +1,5 @@
 criaCartao(
-    'geografia',
+    'Geografia',
     'Qual é o maior país do mundo em termos de área?',
     'Rússia'
 )
@@ -43,13 +43,13 @@ criaCartao(
 criaCartao(
     'Gerais',
     'Qual o maior planeta do sistema solar?',
-    'jupiter.'
+    'Júpiter'
 )
 
 criaCartao(
     'Gerais',
     'Qual o monumento famoso pela sua inclinação?',
-    'Torre de pisa.'
+    'Torre de Pisa.'
 )
 
 criaCartao(
